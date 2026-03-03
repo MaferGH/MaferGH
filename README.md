@@ -26,14 +26,16 @@
 <hr>
 
 <div>
-<div align="center">  
-  <img width="49%" height="160px" src="https://github-readme-stats.vercel.app/api?username=MaferGH&show_icons=true&count_private=true&hide_border=true&title_color=9932CC&icon_color=9932CC&text_color=c9d1d9&bg_color=0d1117" alt="Fernanda García github stats" /> 
-  <img width="41%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaferGH&layout=compact&hide_border=true&title_color=9932CC&text_color=EE82EE&bg_color=0d1117" />
+<div align="center"> 
+   
+  ![](https://github-readme-stats.vercel.app/api?username=MaferGH&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MaferGH&theme=dark&hide_border=false)<br/>
+
 </div>
 <div>
 
 <div align="center"> 
-<a href="https://www.instagram.com/bby.m4f/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.instagram.com/b2b.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:mafergariah@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
 
@@ -92,3 +94,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
+
+
+###
+
+<h2 align="left">Our space</h2>
+
+<img width="1280" height="617" alt="Pink and Green Photo Cute   Sweet Couple Valentine&#39;s Day Mug-Photoroom" src="https://github.com/user-attachments/assets/0383de8e-1c17-486a-ac31-9a1002fc3bfb" />
+
+
+###
