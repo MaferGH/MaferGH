@@ -17,7 +17,7 @@
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 
-<p align="left">👩‍💻 I am a student at ESCOM IPN.<br>💻 I study Computer Systems Engineering and I'm 19 years old.<br>🎨 I love frontend, but I'm currently dabbling in the fullstack world.<br>✨ Creating bugs since 2023<br>📚 I'm currently learning backend with Node.js and databases (MySQL and SQL Server)<br>🎯 Goals: Master fullstack development, contribute to open source projects and get a technological internship
+<p align="left">👩‍💻 I am a student at ESCOM IPN.<br>💻 I study Computer Systems Engineering and I'm 20 years old.<br>🎨 I love frontend, but I'm currently dabbling in the fullstack world.<br>✨ Creating bugs since 2023<br>📚 I'm currently learning backend with Node.js and databases (MySQL and SQL Server)<br>🎯 Goals: Master fullstack development, contribute to open source projects and get a technological internship
 <br>🎲 Fun fact: I prefer debugging to sleeping... even if I regret it later 😅</p>
 
 
